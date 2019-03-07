@@ -1,3 +1,30 @@
+body {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
 #menu {
-  background-image: url("../../resources/images/the-flatiron-building.png")
+  background-image: url("../../resources/images/the-flatiron-building.png");
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+ul {
+  list-style: none;
+  color: white;
+  margin-bottom: 20px;
+}
+
+ul li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+a {
+  color: white;
+  text-decoration: underline;
 }
